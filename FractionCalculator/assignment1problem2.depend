@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1551476162 source:e:\fci\second year\second term\data structure\assignments\assignment1problem2\main.cpp
+	<iostream>
+	<fraction.h>
+	<stdlib.h>
+
+1551475527 e:\fci\second year\second term\data structure\assignments\assignment1problem2\include\fraction.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1551476197 source:e:\fci\second year\second term\data structure\assignments\assignment1problem2\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+	<stdlib.h>
+
+1554633640 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+	<stdlib.h>
+
+1551864722 e:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\include\fraction.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1551705844 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\src\fraction_calculator.cpp
+	"fraction_calculator.h"
+
+1551705844 e:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\include\fraction_calculator.h
+
+1554633150 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\main.cpp
+	<iostream>
+	<fraction.h>
+	<stdlib.h>
+	<FractionCCalculator.h>
+
+1554633520 source:e:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\src\fractionccalculator.cpp
+	"FractionCCalculator.h"
+
+1551854168 e:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\include\fractionccalculator.h
+	<iostream>
+	"fraction.h"
+
+1551920562 source:c:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\main.cpp
+	<iostream>
+	<fraction.h>
+	<stdlib.h>
+
+1551900721 c:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\include\fraction.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1551900900 source:c:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+	<stdlib.h>
+
+1551741843 source:c:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\src\fraction_calculator.cpp
+	"fraction_calculator.h"
+
+1551741843 c:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\include\fraction_calculator.h
+
+1551890763 source:c:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\src\fractionccalculator.cpp
+	"FractionCCalculator.h"
+
+1551890167 c:\fci\second year\second term\data structure\assignments\assignment1\a1_p2_20170104_20170178_20170204\include\fractionccalculator.h
+	<iostream>
+	"fraction.h"
+
+1554669148 source:c:\users\admin\desktop\new folder\a1_p2_20170104_20170178_20170204\main.cpp
+	<iostream>
+	<fraction.h>
+	<stdlib.h>
+	<FractionCCalculator.h>
+
+1551900721 c:\users\admin\desktop\new folder\a1_p2_20170104_20170178_20170204\include\fraction.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1554669638 source:c:\users\admin\desktop\new folder\a1_p2_20170104_20170178_20170204\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+	<stdlib.h>
+
+1551741843 source:c:\users\admin\desktop\new folder\a1_p2_20170104_20170178_20170204\src\fraction_calculator.cpp
+	"fraction_calculator.h"
+
+1551741843 c:\users\admin\desktop\new folder\a1_p2_20170104_20170178_20170204\include\fraction_calculator.h
+
+1554669519 source:c:\users\admin\desktop\new folder\a1_p2_20170104_20170178_20170204\src\fractionccalculator.cpp
+	"FractionCCalculator.h"
+
+1551890167 c:\users\admin\desktop\new folder\a1_p2_20170104_20170178_20170204\include\fractionccalculator.h
+	<iostream>
+	"fraction.h"
+
